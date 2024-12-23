@@ -19,7 +19,7 @@
     <a href="mailto:support@microfeed.org"><b>Email Us Privately</b></a>
   </p>
 
-Welcome to microfeed, a lightweight content management system (CMS) self-hosted on Cloudflare.
+Welcome to microfeed, a lightweight content management system (CMS) self-hosted on Cloudflare.zzz
 With microfeed, you can easily publish a variety of content such as audios, videos, photos, documents, blog posts,
 and external URLs to a feed in the form of web, RSS, and JSON. It's the perfect solution for tech-savvy individuals who
 want to self-host their own CMS without having to run their own servers.
