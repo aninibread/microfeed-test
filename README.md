@@ -22,7 +22,7 @@
 Welcome to microfeed, a lightweight content management system (CMS) self-hosted on Cloudflare.zzz
 With microfeed, you can easily publish a variety of content such as audios, videos, photos, documents, blog posts,
 and external URLs to a feed in the form of web, RSS, and JSON. It's the perfect solution for tech-savvy individuals who
-want to self-host their own CMS without having to run their own servers.
+want to self-host their own CMS without having to run their own servers...
 
 microfeed is built by [Listen Notes](https://www.listennotes.com/) and is hosted on Cloudflare's [Pages](https://pages.cloudflare.com/),
 [R2](https://www.cloudflare.com/products/r2/), [D1](https://developers.cloudflare.com/d1/), and [Zero Trust](https://www.cloudflare.com/products/zero-trust/).
